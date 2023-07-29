@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.Item {
+    width: 500px;
+    display: flex;
+    margin: 10px auto;
+}
+.Item input {
+    margin-right: 10px;
+}
+.Item button {
+    margin-right: 0;
+    margin-left: auto;
+    color: white;
+    background: black;
+}
